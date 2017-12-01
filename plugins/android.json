@@ -8,37 +8,10 @@
   },
   "installed_plugins": {
     "cordova-plugin-whitelist": {
-      "PACKAGE_NAME": "org.conoceme"
+      "PACKAGE_NAME": "com.conoceme_mobile"
     },
-    "cordova-plugin-statusbar": {
-      "PACKAGE_NAME": "org.conoceme"
-    },
-    "cordova-opentok-android-permissions": {
-      "PACKAGE_NAME": "org.conoceme"
-    },
-    "cordova-plugin-splashscreen": {
-      "PACKAGE_NAME": "org.conoceme"
-    },
-    "cordova-plugin-media-capture": {
-      "PACKAGE_NAME": "org.conoceme"
-    },
-    "cordova-plugin-inappbrowser": {
-      "PACKAGE_NAME": "org.conoceme"
-    },
-    "cordova-plugin-media": {
-      "PACKAGE_NAME": "org.conoceme"
-    },
-    "cordova-plugin-vibration": {
-      "PACKAGE_NAME": "org.conoceme"
-    },
-    "cordova-plugin-camera": {
-      "PACKAGE_NAME": "org.conoceme"
-    },
-    "cordova-plugin-file": {
-      "PACKAGE_NAME": "org.conoceme"
-    },
-    "cordova-plugin-file-transfer": {
-      "PACKAGE_NAME": "org.conoceme"
+    "com.applozic.phonegap": {
+      "PACKAGE_NAME": "com.conoceme_mobile"
     }
   },
   "dependent_plugins": {}

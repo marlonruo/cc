@@ -54,6 +54,7 @@
     <plugin name="cordova-plugin-inappbrowser" />
     <plugin name="cordova-plugin-media" />
     <plugin name="cordova-plugin-vibration" />
+    <plugin name="com.applozic.phonegap" spec="https://github.com/AppLozic/Applozic-Cordova-Ionic-PhoneGap-Chat-Plugin.git" />
     <!--<plugin name="cordova-plugin-camera" spec="^3.0.0" />
     <plugin name="cordova-plugin-file" spec="~5.0.0" />
     <plugin name="cordova-plugin-file-transfer" spec="^1.7.0" />-->
